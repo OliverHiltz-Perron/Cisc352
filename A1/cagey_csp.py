@@ -1,5 +1,5 @@
 # =============================
-# Student Names:
+# Student Names: 
 # Group ID:
 # Date:
 # =============================
@@ -87,8 +87,53 @@ An example of a 3x3 puzzle would be defined as:
 from cspbase import *
 
 def binary_ne_grid(cagey_grid):
-    ##IMPLEMENT
-    pass
+    n, cages = cagey_grid
+    
+    # Create domain [1, 2, ..., n] for each cell
+    domain = list(range(1, n + 1))
+    
+    # Create n^2 variables for the grid
+    var_array = []
+    for row in range(1, n + 1):
+        for col in range(1, n + 1):
+            var = Variable(f"Cell({row},{col})", domain)
+            var_array.append(var)
+    
+    # Create CSP
+    csp = CSP(f"binary_ne_grid_{n}x{n}", var_array)
+    
+    # Helper function to convert 1 indexed coordinates to 0 indexed
+    def get_var(row, col):
+        return var_array[(row - 1) * n + (col - 1)]
+    
+    # Generate satisfying tuples for binary not-equal constraints
+    sat_tuples = []
+    for val1 in domain:
+        for val2 in domain:
+            if val1 != val2:
+                sat_tuples.append((val1, val2))
+    
+    # Add row constraints
+    for row in range(1, n + 1):
+        for col1 in range(1, n + 1):
+            for col2 in range(col1 + 1, n + 1):
+                var1 = get_var(row, col1)
+                var2 = get_var(row, col2)
+                con = Constraint(f"Row{row}_C({col1},{col2})", [var1, var2])
+                con.add_satisfying_tuples(sat_tuples)
+                csp.add_constraint(con)
+    
+    # Add column constraints
+    for col in range(1, n + 1):
+        for row1 in range(1, n + 1):
+            for row2 in range(row1 + 1, n + 1):
+                var1 = get_var(row1, col)
+                var2 = get_var(row2, col)
+                con = Constraint(f"Col{col}_C({row1},{row2})", [var1, var2])
+                con.add_satisfying_tuples(sat_tuples)
+                csp.add_constraint(con)
+    
+    return csp, var_array
 
 
 def nary_ad_grid(cagey_grid):
