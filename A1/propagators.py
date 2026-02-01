@@ -1,7 +1,7 @@
 # =============================
-# Student Names:
-# Group ID:
-# Date:
+# Student Names: Oliver Hiltz-Perron, Aidan Kooiman
+# Group ID: 57
+# Date: February 1, 2026
 # =============================
 # CISC 352
 # propagators.py
@@ -100,13 +100,69 @@ def prop_FC(csp, newVar=None):
     '''Do forward checking. That is check constraints with
        only one uninstantiated Variable. Remember to keep
        track of all pruned Variable,value pairs and return '''
+
+    pruned = [] # empty list for pruned elements
+
+    if newVar is None: # base case for unassigned start variable
+        return True, pruned
+    
+    constraints = csp.get_cons_with_var(newVar) # gets the current constraints from newVar check
+    for c in constraints: # iterated through constraints
+        unasgn_vars = [
+            v for v in c.get_scope() if not (v.is_assigned())
+        ] # a list for all vars in the scope
+        if len(unasgn_vars) == 0:
+            continue
+        if len(unasgn_vars) == 1:
+            y = unasgn_vars[0]
+
+            for val in y.cur_domain(): # iterates through each value in the domain of y
+                values = []
+                for var in c.get_scope(): # iterates through each var in the scope of c
+                    if var is y:
+                        values.append(val)
+                    else:
+                        values.append(var.get_assigned_value())
+                if not c.check_tuple(values): # if the tuple violates the constraint, it gets pruned
+                    y.prune_value(val)
+                    pruned.append((y,val))
+
+            if y.cur_domain_size() == 0: # if the domain of y is now empty, then forward checking failed
+                return False, pruned
+
+    return True, pruned
+
     #IMPLEMENT
-    pass
 
 
-def prop_GAC(csp, newVar=None):
+def prop_GAC(csp, assignment=None, newVar=None):
     '''Do GAC propagation. If newVar is None we do initial GAC enforce
        processing all constraints. Otherwise we do GAC enforce with
        constraints containing newVar on GAC Queue'''
+    
+    GAC_pruned = [] # empty list for pruned elements
+
+    if newVar is None: # adds all constraints in CSP to the queue
+        GAC_queue = list(csp.get_all_cons())
+    else:
+        GAC_queue = list(csp.get_cons_with_var(newVar)) # gets the newest variable for propagation
+    
+    while GAC_queue:
+        constraint = GAC_queue.pop(0) # first constraint of queue
+
+        for var in constraint.get_scope(): # iterates through each variable in the scope of constraints
+            for val in var.cur_domain():
+                if not constraint.has_support(var, val): # pruned if there is no support
+                    var.prune_value(val)
+                    GAC_pruned.append((var, val))
+
+                    if var.cur_domain_size() == 0: # empty domain and GAC fails
+                        return False, GAC_pruned
+                    
+                    for cons in csp.get_cons_with_var(var): # add all constraints back except the current constraint
+                        if cons != constraint and cons not in GAC_queue:
+                            GAC_queue.append(cons)
+
+    return True, GAC_pruned
+
     #IMPLEMENT
-    pass
