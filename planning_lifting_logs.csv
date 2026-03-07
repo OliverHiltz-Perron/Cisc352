@@ -1,0 +1,241 @@
+Week,Date,Block,Block_Week,Is_Deload,Day,Focus,Exercise,Exercise_Type,Sets,Reps,Weight_kg,Intensity_Pct,RPE_Target,Est_1RM_kg
+1,2026-03-09,Base / GPP,1,False,Monday,Lower,Squat,Main,4,5,65.0,65.0,7,100
+1,2026-03-09,Base / GPP,1,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,50.0,50.0,7,100
+1,2026-03-09,Base / GPP,1,False,Monday,Lower,Leg Press,Accessory,3,12,50.0,50.0,7,100
+1,2026-03-09,Base / GPP,1,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,50.0,50.0,7,100
+1,2026-03-10,Base / GPP,1,False,Tuesday,Upper,Bench Press,Main,4,5,52.5,65.0,7,80
+1,2026-03-10,Base / GPP,1,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,40.0,50.0,7,80
+1,2026-03-10,Base / GPP,1,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,40.0,50.0,7,80
+1,2026-03-10,Base / GPP,1,False,Tuesday,Upper,Cable Flye,Accessory,3,12,40.0,50.0,7,80
+1,2026-03-12,Base / GPP,1,False,Thursday,Lower,Deadlift,Main,4,5,85.0,65.0,7,130
+1,2026-03-12,Base / GPP,1,False,Thursday,Lower,Barbell Row,Accessory,3,12,65.0,50.0,7,130
+1,2026-03-12,Base / GPP,1,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,65.0,50.0,7,130
+1,2026-03-12,Base / GPP,1,False,Thursday,Lower,Good Morning,Accessory,3,12,65.0,50.0,7,130
+1,2026-03-13,Base / GPP,1,False,Friday,Upper,Bench Press,Main,4,5,52.5,65.0,7,80
+1,2026-03-13,Base / GPP,1,False,Friday,Upper,Incline DB Press,Accessory,3,12,40.0,50.0,7,80
+1,2026-03-13,Base / GPP,1,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,40.0,50.0,7,80
+1,2026-03-13,Base / GPP,1,False,Friday,Upper,Cable Flye,Accessory,3,12,40.0,50.0,7,80
+2,2026-03-16,Base / GPP,2,False,Monday,Lower,Squat,Main,4,5,70.0,67.5,7,102.5
+2,2026-03-16,Base / GPP,2,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,50.0,50.0,7,102.5
+2,2026-03-16,Base / GPP,2,False,Monday,Lower,Leg Press,Accessory,3,12,50.0,50.0,7,102.5
+2,2026-03-16,Base / GPP,2,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,50.0,50.0,7,102.5
+2,2026-03-17,Base / GPP,2,False,Tuesday,Upper,Bench Press,Main,4,5,55.0,67.5,7,82.0
+2,2026-03-17,Base / GPP,2,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,40.0,50.0,7,82.0
+2,2026-03-17,Base / GPP,2,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,40.0,50.0,7,82.0
+2,2026-03-17,Base / GPP,2,False,Tuesday,Upper,Cable Flye,Accessory,3,12,40.0,50.0,7,82.0
+2,2026-03-19,Base / GPP,2,False,Thursday,Lower,Deadlift,Main,4,5,90.0,67.5,7,133.2
+2,2026-03-19,Base / GPP,2,False,Thursday,Lower,Barbell Row,Accessory,3,12,67.5,50.0,7,133.2
+2,2026-03-19,Base / GPP,2,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,67.5,50.0,7,133.2
+2,2026-03-19,Base / GPP,2,False,Thursday,Lower,Good Morning,Accessory,3,12,67.5,50.0,7,133.2
+2,2026-03-20,Base / GPP,2,False,Friday,Upper,Bench Press,Main,4,5,55.0,67.5,7,82.0
+2,2026-03-20,Base / GPP,2,False,Friday,Upper,Incline DB Press,Accessory,3,12,40.0,50.0,7,82.0
+2,2026-03-20,Base / GPP,2,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,40.0,50.0,7,82.0
+2,2026-03-20,Base / GPP,2,False,Friday,Upper,Cable Flye,Accessory,3,12,40.0,50.0,7,82.0
+3,2026-03-23,Base / GPP,3,False,Monday,Lower,Squat,Main,4,5,72.5,70.0,7,105.1
+3,2026-03-23,Base / GPP,3,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,52.5,50.0,7,105.1
+3,2026-03-23,Base / GPP,3,False,Monday,Lower,Leg Press,Accessory,3,12,52.5,50.0,7,105.1
+3,2026-03-23,Base / GPP,3,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,52.5,50.0,7,105.1
+3,2026-03-24,Base / GPP,3,False,Tuesday,Upper,Bench Press,Main,4,5,60.0,70.0,7,84.0
+3,2026-03-24,Base / GPP,3,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,42.5,50.0,7,84.0
+3,2026-03-24,Base / GPP,3,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,42.5,50.0,7,84.0
+3,2026-03-24,Base / GPP,3,False,Tuesday,Upper,Cable Flye,Accessory,3,12,42.5,50.0,7,84.0
+3,2026-03-26,Base / GPP,3,False,Thursday,Lower,Deadlift,Main,4,5,95.0,70.0,7,136.6
+3,2026-03-26,Base / GPP,3,False,Thursday,Lower,Barbell Row,Accessory,3,12,67.5,50.0,7,136.6
+3,2026-03-26,Base / GPP,3,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,67.5,50.0,7,136.6
+3,2026-03-26,Base / GPP,3,False,Thursday,Lower,Good Morning,Accessory,3,12,67.5,50.0,7,136.6
+3,2026-03-27,Base / GPP,3,False,Friday,Upper,Bench Press,Main,4,5,60.0,70.0,7,84.0
+3,2026-03-27,Base / GPP,3,False,Friday,Upper,Incline DB Press,Accessory,3,12,42.5,50.0,7,84.0
+3,2026-03-27,Base / GPP,3,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,42.5,50.0,7,84.0
+3,2026-03-27,Base / GPP,3,False,Friday,Upper,Cable Flye,Accessory,3,12,42.5,50.0,7,84.0
+4,2026-03-30,Base / GPP,4,True,Monday,Lower,Squat,Main,3,7,67.5,61.6,6,107.7
+4,2026-03-30,Base / GPP,4,True,Monday,Lower,Romanian Deadlift,Accessory,3,12,55.0,50.0,7,107.7
+4,2026-03-30,Base / GPP,4,True,Monday,Lower,Leg Press,Accessory,3,12,55.0,50.0,7,107.7
+4,2026-03-30,Base / GPP,4,True,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,55.0,50.0,7,107.7
+4,2026-03-31,Base / GPP,4,True,Tuesday,Upper,Bench Press,Main,3,7,52.5,61.6,6,86.2
+4,2026-03-31,Base / GPP,4,True,Tuesday,Upper,Incline DB Press,Accessory,3,12,42.5,50.0,7,86.2
+4,2026-03-31,Base / GPP,4,True,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,42.5,50.0,7,86.2
+4,2026-03-31,Base / GPP,4,True,Tuesday,Upper,Cable Flye,Accessory,3,12,42.5,50.0,7,86.2
+4,2026-04-02,Base / GPP,4,True,Thursday,Lower,Deadlift,Main,3,7,87.5,61.6,6,140.0
+4,2026-04-02,Base / GPP,4,True,Thursday,Lower,Barbell Row,Accessory,3,12,70.0,50.0,7,140.0
+4,2026-04-02,Base / GPP,4,True,Thursday,Lower,Lat Pulldown,Accessory,3,12,70.0,50.0,7,140.0
+4,2026-04-02,Base / GPP,4,True,Thursday,Lower,Good Morning,Accessory,3,12,70.0,50.0,7,140.0
+4,2026-04-03,Base / GPP,4,True,Friday,Upper,Bench Press,Main,3,7,52.5,61.6,6,86.2
+4,2026-04-03,Base / GPP,4,True,Friday,Upper,Incline DB Press,Accessory,3,12,42.5,50.0,7,86.2
+4,2026-04-03,Base / GPP,4,True,Friday,Upper,Tricep Pushdown,Accessory,3,12,42.5,50.0,7,86.2
+4,2026-04-03,Base / GPP,4,True,Friday,Upper,Cable Flye,Accessory,3,12,42.5,50.0,7,86.2
+5,2026-04-06,Base / GPP,5,False,Monday,Lower,Squat,Main,4,5,80.0,75.0,7,107.7
+5,2026-04-06,Base / GPP,5,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,55.0,50.0,7,107.7
+5,2026-04-06,Base / GPP,5,False,Monday,Lower,Leg Press,Accessory,3,12,55.0,50.0,7,107.7
+5,2026-04-06,Base / GPP,5,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,55.0,50.0,7,107.7
+5,2026-04-07,Base / GPP,5,False,Tuesday,Upper,Bench Press,Main,4,5,65.0,75.0,7,86.2
+5,2026-04-07,Base / GPP,5,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,42.5,50.0,7,86.2
+5,2026-04-07,Base / GPP,5,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,42.5,50.0,7,86.2
+5,2026-04-07,Base / GPP,5,False,Tuesday,Upper,Cable Flye,Accessory,3,12,42.5,50.0,7,86.2
+5,2026-04-09,Base / GPP,5,False,Thursday,Lower,Deadlift,Main,4,5,105.0,75.0,7,140.0
+5,2026-04-09,Base / GPP,5,False,Thursday,Lower,Barbell Row,Accessory,3,12,70.0,50.0,7,140.0
+5,2026-04-09,Base / GPP,5,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,70.0,50.0,7,140.0
+5,2026-04-09,Base / GPP,5,False,Thursday,Lower,Good Morning,Accessory,3,12,70.0,50.0,7,140.0
+5,2026-04-10,Base / GPP,5,False,Friday,Upper,Bench Press,Main,4,5,65.0,75.0,7,86.2
+5,2026-04-10,Base / GPP,5,False,Friday,Upper,Incline DB Press,Accessory,3,12,42.5,50.0,7,86.2
+5,2026-04-10,Base / GPP,5,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,42.5,50.0,7,86.2
+5,2026-04-10,Base / GPP,5,False,Friday,Upper,Cable Flye,Accessory,3,12,42.5,50.0,7,86.2
+6,2026-04-13,Hypertrophy,1,False,Monday,Lower,Squat,Main,4,8,77.5,70.0,8,110.4
+6,2026-04-13,Hypertrophy,1,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,55.0,50.0,7,110.4
+6,2026-04-13,Hypertrophy,1,False,Monday,Lower,Leg Press,Accessory,3,12,55.0,50.0,7,110.4
+6,2026-04-13,Hypertrophy,1,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,55.0,50.0,7,110.4
+6,2026-04-14,Hypertrophy,1,False,Tuesday,Upper,Bench Press,Main,4,8,62.5,70.0,8,88.3
+6,2026-04-14,Hypertrophy,1,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,45.0,50.0,7,88.3
+6,2026-04-14,Hypertrophy,1,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,45.0,50.0,7,88.3
+6,2026-04-14,Hypertrophy,1,False,Tuesday,Upper,Cable Flye,Accessory,3,12,45.0,50.0,7,88.3
+6,2026-04-16,Hypertrophy,1,False,Thursday,Lower,Deadlift,Main,4,8,100.0,70.0,8,143.5
+6,2026-04-16,Hypertrophy,1,False,Thursday,Lower,Barbell Row,Accessory,3,12,72.5,50.0,7,143.5
+6,2026-04-16,Hypertrophy,1,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,72.5,50.0,7,143.5
+6,2026-04-16,Hypertrophy,1,False,Thursday,Lower,Good Morning,Accessory,3,12,72.5,50.0,7,143.5
+6,2026-04-17,Hypertrophy,1,False,Friday,Upper,Bench Press,Main,4,8,62.5,70.0,8,88.3
+6,2026-04-17,Hypertrophy,1,False,Friday,Upper,Incline DB Press,Accessory,3,12,45.0,50.0,7,88.3
+6,2026-04-17,Hypertrophy,1,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,45.0,50.0,7,88.3
+6,2026-04-17,Hypertrophy,1,False,Friday,Upper,Cable Flye,Accessory,3,12,45.0,50.0,7,88.3
+7,2026-04-20,Hypertrophy,2,False,Monday,Lower,Squat,Main,4,8,80.0,72.0,8,112.6
+7,2026-04-20,Hypertrophy,2,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,57.5,50.0,7,112.6
+7,2026-04-20,Hypertrophy,2,False,Monday,Lower,Leg Press,Accessory,3,12,57.5,50.0,7,112.6
+7,2026-04-20,Hypertrophy,2,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,57.5,50.0,7,112.6
+7,2026-04-21,Hypertrophy,2,False,Tuesday,Upper,Bench Press,Main,4,8,65.0,72.0,8,90.1
+7,2026-04-21,Hypertrophy,2,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,45.0,50.0,7,90.1
+7,2026-04-21,Hypertrophy,2,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,45.0,50.0,7,90.1
+7,2026-04-21,Hypertrophy,2,False,Tuesday,Upper,Cable Flye,Accessory,3,12,45.0,50.0,7,90.1
+7,2026-04-23,Hypertrophy,2,False,Thursday,Lower,Deadlift,Main,4,8,105.0,72.0,8,146.4
+7,2026-04-23,Hypertrophy,2,False,Thursday,Lower,Barbell Row,Accessory,3,12,72.5,50.0,7,146.4
+7,2026-04-23,Hypertrophy,2,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,72.5,50.0,7,146.4
+7,2026-04-23,Hypertrophy,2,False,Thursday,Lower,Good Morning,Accessory,3,12,72.5,50.0,7,146.4
+7,2026-04-24,Hypertrophy,2,False,Friday,Upper,Bench Press,Main,4,8,65.0,72.0,8,90.1
+7,2026-04-24,Hypertrophy,2,False,Friday,Upper,Incline DB Press,Accessory,3,12,45.0,50.0,7,90.1
+7,2026-04-24,Hypertrophy,2,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,45.0,50.0,7,90.1
+7,2026-04-24,Hypertrophy,2,False,Friday,Upper,Cable Flye,Accessory,3,12,45.0,50.0,7,90.1
+8,2026-04-27,Hypertrophy,3,False,Monday,Lower,Squat,Main,4,8,85.0,74.0,8,114.8
+8,2026-04-27,Hypertrophy,3,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,57.5,50.0,7,114.8
+8,2026-04-27,Hypertrophy,3,False,Monday,Lower,Leg Press,Accessory,3,12,57.5,50.0,7,114.8
+8,2026-04-27,Hypertrophy,3,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,57.5,50.0,7,114.8
+8,2026-04-28,Hypertrophy,3,False,Tuesday,Upper,Bench Press,Main,4,8,67.5,74.0,8,91.9
+8,2026-04-28,Hypertrophy,3,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,45.0,50.0,7,91.9
+8,2026-04-28,Hypertrophy,3,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,45.0,50.0,7,91.9
+8,2026-04-28,Hypertrophy,3,False,Tuesday,Upper,Cable Flye,Accessory,3,12,45.0,50.0,7,91.9
+8,2026-04-30,Hypertrophy,3,False,Thursday,Lower,Deadlift,Main,4,8,110.0,74.0,8,149.3
+8,2026-04-30,Hypertrophy,3,False,Thursday,Lower,Barbell Row,Accessory,3,12,75.0,50.0,7,149.3
+8,2026-04-30,Hypertrophy,3,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,75.0,50.0,7,149.3
+8,2026-04-30,Hypertrophy,3,False,Thursday,Lower,Good Morning,Accessory,3,12,75.0,50.0,7,149.3
+8,2026-05-01,Hypertrophy,3,False,Friday,Upper,Bench Press,Main,4,8,67.5,74.0,8,91.9
+8,2026-05-01,Hypertrophy,3,False,Friday,Upper,Incline DB Press,Accessory,3,12,45.0,50.0,7,91.9
+8,2026-05-01,Hypertrophy,3,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,45.0,50.0,7,91.9
+8,2026-05-01,Hypertrophy,3,False,Friday,Upper,Cable Flye,Accessory,3,12,45.0,50.0,7,91.9
+9,2026-05-04,Hypertrophy,4,True,Monday,Lower,Squat,Main,3,10,75.0,64.6,7,117.1
+9,2026-05-04,Hypertrophy,4,True,Monday,Lower,Romanian Deadlift,Accessory,3,12,57.5,50.0,7,117.1
+9,2026-05-04,Hypertrophy,4,True,Monday,Lower,Leg Press,Accessory,3,12,57.5,50.0,7,117.1
+9,2026-05-04,Hypertrophy,4,True,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,57.5,50.0,7,117.1
+9,2026-05-05,Hypertrophy,4,True,Tuesday,Upper,Bench Press,Main,3,10,60.0,64.6,7,93.7
+9,2026-05-05,Hypertrophy,4,True,Tuesday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,93.7
+9,2026-05-05,Hypertrophy,4,True,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,93.7
+9,2026-05-05,Hypertrophy,4,True,Tuesday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,93.7
+9,2026-05-07,Hypertrophy,4,True,Thursday,Lower,Deadlift,Main,3,10,97.5,64.6,7,152.3
+9,2026-05-07,Hypertrophy,4,True,Thursday,Lower,Barbell Row,Accessory,3,12,75.0,50.0,7,152.3
+9,2026-05-07,Hypertrophy,4,True,Thursday,Lower,Lat Pulldown,Accessory,3,12,75.0,50.0,7,152.3
+9,2026-05-07,Hypertrophy,4,True,Thursday,Lower,Good Morning,Accessory,3,12,75.0,50.0,7,152.3
+9,2026-05-08,Hypertrophy,4,True,Friday,Upper,Bench Press,Main,3,10,60.0,64.6,7,93.7
+9,2026-05-08,Hypertrophy,4,True,Friday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,93.7
+9,2026-05-08,Hypertrophy,4,True,Friday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,93.7
+9,2026-05-08,Hypertrophy,4,True,Friday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,93.7
+10,2026-05-11,Hypertrophy,5,False,Monday,Lower,Squat,Main,4,8,92.5,78.0,8,117.1
+10,2026-05-11,Hypertrophy,5,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,57.5,50.0,7,117.1
+10,2026-05-11,Hypertrophy,5,False,Monday,Lower,Leg Press,Accessory,3,12,57.5,50.0,7,117.1
+10,2026-05-11,Hypertrophy,5,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,57.5,50.0,7,117.1
+10,2026-05-12,Hypertrophy,5,False,Tuesday,Upper,Bench Press,Main,4,8,72.5,78.0,8,93.7
+10,2026-05-12,Hypertrophy,5,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,93.7
+10,2026-05-12,Hypertrophy,5,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,93.7
+10,2026-05-12,Hypertrophy,5,False,Tuesday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,93.7
+10,2026-05-14,Hypertrophy,5,False,Thursday,Lower,Deadlift,Main,4,8,120.0,78.0,8,152.3
+10,2026-05-14,Hypertrophy,5,False,Thursday,Lower,Barbell Row,Accessory,3,12,75.0,50.0,7,152.3
+10,2026-05-14,Hypertrophy,5,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,75.0,50.0,7,152.3
+10,2026-05-14,Hypertrophy,5,False,Thursday,Lower,Good Morning,Accessory,3,12,75.0,50.0,7,152.3
+10,2026-05-15,Hypertrophy,5,False,Friday,Upper,Bench Press,Main,4,8,72.5,78.0,8,93.7
+10,2026-05-15,Hypertrophy,5,False,Friday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,93.7
+10,2026-05-15,Hypertrophy,5,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,93.7
+10,2026-05-15,Hypertrophy,5,False,Friday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,93.7
+11,2026-05-18,Hypertrophy,6,False,Monday,Lower,Squat,Main,4,8,95.0,80.0,8,119.5
+11,2026-05-18,Hypertrophy,6,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,60.0,50.0,7,119.5
+11,2026-05-18,Hypertrophy,6,False,Monday,Lower,Leg Press,Accessory,3,12,60.0,50.0,7,119.5
+11,2026-05-18,Hypertrophy,6,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,60.0,50.0,7,119.5
+11,2026-05-19,Hypertrophy,6,False,Tuesday,Upper,Bench Press,Main,4,8,77.5,80.0,8,95.6
+11,2026-05-19,Hypertrophy,6,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,95.6
+11,2026-05-19,Hypertrophy,6,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,95.6
+11,2026-05-19,Hypertrophy,6,False,Tuesday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,95.6
+11,2026-05-21,Hypertrophy,6,False,Thursday,Lower,Deadlift,Main,4,8,125.0,80.0,8,155.3
+11,2026-05-21,Hypertrophy,6,False,Thursday,Lower,Barbell Row,Accessory,3,12,77.5,50.0,7,155.3
+11,2026-05-21,Hypertrophy,6,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,77.5,50.0,7,155.3
+11,2026-05-21,Hypertrophy,6,False,Thursday,Lower,Good Morning,Accessory,3,12,77.5,50.0,7,155.3
+11,2026-05-22,Hypertrophy,6,False,Friday,Upper,Bench Press,Main,4,8,77.5,80.0,8,95.6
+11,2026-05-22,Hypertrophy,6,False,Friday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,95.6
+11,2026-05-22,Hypertrophy,6,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,95.6
+11,2026-05-22,Hypertrophy,6,False,Friday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,95.6
+12,2026-05-25,Peaking,1,False,Monday,Lower,Squat,Main,3,3,102.5,85.0,9,121.9
+12,2026-05-25,Peaking,1,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,60.0,50.0,7,121.9
+12,2026-05-25,Peaking,1,False,Monday,Lower,Leg Press,Accessory,3,12,60.0,50.0,7,121.9
+12,2026-05-25,Peaking,1,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,60.0,50.0,7,121.9
+12,2026-05-26,Peaking,1,False,Tuesday,Upper,Bench Press,Main,3,3,82.5,85.0,9,97.5
+12,2026-05-26,Peaking,1,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,97.5
+12,2026-05-26,Peaking,1,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,97.5
+12,2026-05-26,Peaking,1,False,Tuesday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,97.5
+12,2026-05-28,Peaking,1,False,Thursday,Lower,Deadlift,Main,3,3,135.0,85.0,9,158.4
+12,2026-05-28,Peaking,1,False,Thursday,Lower,Barbell Row,Accessory,3,12,80.0,50.0,7,158.4
+12,2026-05-28,Peaking,1,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,80.0,50.0,7,158.4
+12,2026-05-28,Peaking,1,False,Thursday,Lower,Good Morning,Accessory,3,12,80.0,50.0,7,158.4
+12,2026-05-29,Peaking,1,False,Friday,Upper,Bench Press,Main,3,3,82.5,85.0,9,97.5
+12,2026-05-29,Peaking,1,False,Friday,Upper,Incline DB Press,Accessory,3,12,47.5,50.0,7,97.5
+12,2026-05-29,Peaking,1,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,47.5,50.0,7,97.5
+12,2026-05-29,Peaking,1,False,Friday,Upper,Cable Flye,Accessory,3,12,47.5,50.0,7,97.5
+13,2026-06-01,Peaking,2,False,Monday,Lower,Squat,Main,3,3,110.0,88.3,9,125.5
+13,2026-06-01,Peaking,2,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,62.5,50.0,7,125.5
+13,2026-06-01,Peaking,2,False,Monday,Lower,Leg Press,Accessory,3,12,62.5,50.0,7,125.5
+13,2026-06-01,Peaking,2,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,62.5,50.0,7,125.5
+13,2026-06-02,Peaking,2,False,Tuesday,Upper,Bench Press,Main,3,3,87.5,88.3,9,100.4
+13,2026-06-02,Peaking,2,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,50.0,50.0,7,100.4
+13,2026-06-02,Peaking,2,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,50.0,50.0,7,100.4
+13,2026-06-02,Peaking,2,False,Tuesday,Upper,Cable Flye,Accessory,3,12,50.0,50.0,7,100.4
+13,2026-06-04,Peaking,2,False,Thursday,Lower,Deadlift,Main,3,3,145.0,88.3,9,163.2
+13,2026-06-04,Peaking,2,False,Thursday,Lower,Barbell Row,Accessory,3,12,82.5,50.0,7,163.2
+13,2026-06-04,Peaking,2,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,82.5,50.0,7,163.2
+13,2026-06-04,Peaking,2,False,Thursday,Lower,Good Morning,Accessory,3,12,82.5,50.0,7,163.2
+13,2026-06-05,Peaking,2,False,Friday,Upper,Bench Press,Main,3,3,87.5,88.3,9,100.4
+13,2026-06-05,Peaking,2,False,Friday,Upper,Incline DB Press,Accessory,3,12,50.0,50.0,7,100.4
+13,2026-06-05,Peaking,2,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,50.0,50.0,7,100.4
+13,2026-06-05,Peaking,2,False,Friday,Upper,Cable Flye,Accessory,3,12,50.0,50.0,7,100.4
+14,2026-06-08,Peaking,3,False,Monday,Lower,Squat,Main,3,3,117.5,91.7,9,129.3
+14,2026-06-08,Peaking,3,False,Monday,Lower,Romanian Deadlift,Accessory,3,12,65.0,50.0,7,129.3
+14,2026-06-08,Peaking,3,False,Monday,Lower,Leg Press,Accessory,3,12,65.0,50.0,7,129.3
+14,2026-06-08,Peaking,3,False,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,65.0,50.0,7,129.3
+14,2026-06-09,Peaking,3,False,Tuesday,Upper,Bench Press,Main,3,3,95.0,91.7,9,103.4
+14,2026-06-09,Peaking,3,False,Tuesday,Upper,Incline DB Press,Accessory,3,12,52.5,50.0,7,103.4
+14,2026-06-09,Peaking,3,False,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,52.5,50.0,7,103.4
+14,2026-06-09,Peaking,3,False,Tuesday,Upper,Cable Flye,Accessory,3,12,52.5,50.0,7,103.4
+14,2026-06-11,Peaking,3,False,Thursday,Lower,Deadlift,Main,3,3,155.0,91.7,9,168.1
+14,2026-06-11,Peaking,3,False,Thursday,Lower,Barbell Row,Accessory,3,12,85.0,50.0,7,168.1
+14,2026-06-11,Peaking,3,False,Thursday,Lower,Lat Pulldown,Accessory,3,12,85.0,50.0,7,168.1
+14,2026-06-11,Peaking,3,False,Thursday,Lower,Good Morning,Accessory,3,12,85.0,50.0,7,168.1
+14,2026-06-12,Peaking,3,False,Friday,Upper,Bench Press,Main,3,3,95.0,91.7,9,103.4
+14,2026-06-12,Peaking,3,False,Friday,Upper,Incline DB Press,Accessory,3,12,52.5,50.0,7,103.4
+14,2026-06-12,Peaking,3,False,Friday,Upper,Tricep Pushdown,Accessory,3,12,52.5,50.0,7,103.4
+14,2026-06-12,Peaking,3,False,Friday,Upper,Cable Flye,Accessory,3,12,52.5,50.0,7,103.4
+15,2026-06-15,Peaking,4,True,Monday,Lower,Squat,Main,2,5,107.5,80.8,8,133.2
+15,2026-06-15,Peaking,4,True,Monday,Lower,Romanian Deadlift,Accessory,3,12,67.5,50.0,7,133.2
+15,2026-06-15,Peaking,4,True,Monday,Lower,Leg Press,Accessory,3,12,67.5,50.0,7,133.2
+15,2026-06-15,Peaking,4,True,Monday,Lower,Bulgarian Split Squat,Accessory,3,12,67.5,50.0,7,133.2
+15,2026-06-16,Peaking,4,True,Tuesday,Upper,Bench Press,Main,2,5,85.0,80.8,8,106.5
+15,2026-06-16,Peaking,4,True,Tuesday,Upper,Incline DB Press,Accessory,3,12,52.5,50.0,7,106.5
+15,2026-06-16,Peaking,4,True,Tuesday,Upper,Tricep Pushdown,Accessory,3,12,52.5,50.0,7,106.5
+15,2026-06-16,Peaking,4,True,Tuesday,Upper,Cable Flye,Accessory,3,12,52.5,50.0,7,106.5
+15,2026-06-18,Peaking,4,True,Thursday,Lower,Deadlift,Main,2,5,140.0,80.8,8,173.1
+15,2026-06-18,Peaking,4,True,Thursday,Lower,Barbell Row,Accessory,3,12,87.5,50.0,7,173.1
+15,2026-06-18,Peaking,4,True,Thursday,Lower,Lat Pulldown,Accessory,3,12,87.5,50.0,7,173.1
+15,2026-06-18,Peaking,4,True,Thursday,Lower,Good Morning,Accessory,3,12,87.5,50.0,7,173.1
+15,2026-06-19,Peaking,4,True,Friday,Upper,Bench Press,Main,2,5,85.0,80.8,8,106.5
+15,2026-06-19,Peaking,4,True,Friday,Upper,Incline DB Press,Accessory,3,12,52.5,50.0,7,106.5
+15,2026-06-19,Peaking,4,True,Friday,Upper,Tricep Pushdown,Accessory,3,12,52.5,50.0,7,106.5
+15,2026-06-19,Peaking,4,True,Friday,Upper,Cable Flye,Accessory,3,12,52.5,50.0,7,106.5

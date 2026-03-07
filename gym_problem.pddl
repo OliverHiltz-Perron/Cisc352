@@ -1,0 +1,6 @@
+(define (problem user-macrocycle)
+    (:domain gym-planner)
+    (:requirements :negative-preconditions :strips :typing)
+    (:init )
+    (:goal (goal-reached))
+)
